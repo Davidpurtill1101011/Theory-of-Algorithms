@@ -17,6 +17,8 @@ There is a way of actually understanding the Undecidable Problems intuitively fr
 ## Refrences
 1. Andrew Wiles proof of Fermats Theorem [here](https://en.wikipedia.org/wiki/Wiles%27s_proof_of_Fermat%27s_Last_Theorem)
 </br>
-2.  A video giving a quick explaination of [Fermats Theorem](https://www.youtube.com/watch?v=1BSFyEIY2BY)
+2.  A video giving a quick explaination of [FermatsTheorem](https://www.youtube.com/watch?v=1BSFyEIY2BY)
 </br>
-3. 
+3. GeeksOfGeeks Decidable & Undecidable Problems [here](https://www.geeksforgeeks.org/decidable-and-undecidable-problems-in-theory-of-computation/)
+</br>
+4. Fermats Theorem [here](https://en.wikipedia.org/wiki/Fermat%27s_Last_Theorem)
