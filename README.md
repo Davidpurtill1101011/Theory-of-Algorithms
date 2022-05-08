@@ -35,8 +35,8 @@ $$ x^n + y^n = z^n $$
 - In an episode of The Simpsons Homer wants to become an inventor and there is a scene where is at a blackboard doing an equation that has 3987^12 + 4365^12 = 4472^12 this is what is called a near miss and it somehow almost works out but if you were to do it on a phone calculator it will show up as being correct but if you do it on a scientific calculator it will show up to 12-15 decimal places and actually show that it is wrong.
 <br>
 <img src="./Images/homersTheorem.webp" width="600" title="Homers Theorem">
-<br>
-Here is a video explaining more of how they added it in and why [Homers Theorem](https://youtu.be/ReOQ300AcSU).
+
+- Here is a video explaining more of how they added it in and why [Homers Theorem](https://youtu.be/ReOQ300AcSU).
 
 ***
 ## Refrences
