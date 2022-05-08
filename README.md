@@ -1,5 +1,14 @@
 # Theory-of-Algorithms
-
+### Running Notebooks
+1. Clone the repo:<br>
+```git clone https://github.com/Davidpurtill1101011/Theory-of-Algorithms ```
+2. Install [Anaconda3](https://www.anaconda.com/products/distribution) to your local machine
+3. Install [Jupyter](pip install jupyterlab)
+4. In the project folder via the command line use this command:<br>
+   ``` cd Assignment ```
+5. To run the notebooks use: <br> 
+   ``` jupyter lab ```
+***
 ## Post Correspondence
 Inside the folder called Assignment you will find a notebook that talks about the [Post Correspondence Problem](Assignment/PostCorrespondenceProblem.ipynb) and the [Bound Correspondence Problem](Assignment/PostCorrespondenceProblem.ipynb). 
 ***
@@ -12,14 +21,21 @@ Inside the folder called Assignment you will find a notebook that talks about th
 The technologies that are used for this are [Python](https://docs.python.org/3/) and [Jupyter](https://docs.jupyter.org/en/latest/) where the blend of both are used to work on the assigment given.
 [Pandas](https://pandas.pydata.org/getting_started.html) was used for the analytical uses in the notebook. And then [numpy](https://cs231n.github.io/python-numpy-tutorial/) was used for its scientific computing.
 ***
-### Undecidable Problem in Computability Theory
+### **Undecidable Problem in Computability Theory**
 Is a decision problem that any random yes or no question where it has a infinite set of inputs. This is a usual way to define the decision problem that correspond as the set of inputs where the problem returns as true. The inputs can be anything from a number to a string from a [formal language](https://en.wikipedia.org/wiki/Formal_language). And then by using [Godel numbering](https://en.wikipedia.org/wiki/G%C3%B6del_numbering) to do some encoding for the strings to be turned into natural numbers. This then lets a phrase to be passed as a set of natural numbers, which makes it easier to define. If a problem is passed into a Turing Machine to give back a solution which is actually a contradition that is entered it can cause the Turing Machine to run forever to find the right values of n, a, b, c. But we arent sure if a contradiction atutally exists and thus this becomes an Undecidable Problem.
 
 #### **Undecidable Problems**
 Is that when we have problems we can't make an algorithm that can give us an answer to the problem properly in finite time are usually called Undecidable Problems. These problems can actually be practically decidable but they will infact ever be decidable. And that means that there will always be a condition that will always make the Turing Machine go into a infinite loop and will never give the user an answer.
 There is a way of actually understanding the Undecidable Problems intuitively from looking at Fermats Theorem which says not 3 positive Integers can ever please the equation:
+<br>
+#### <center>**Equation for n=2**</center>
+<center><img src="https://latex.codecogs.com/svg.image?x^2&space;&plus;&space;y^2&space;=&space;z^2"></center>
+<br>
 
-$$ x^n + y^n = z^n $$
+#### <center>**Equation for n>2**</center>
+<center><img src="https://latex.codecogs.com/svg.image?\bg{white}&space;x^3&space;&plus;&space;y^3&space;!=&space;z^3&space;" title="https://latex.codecogs.com/svg.image?\bg{white} x^3 + y^3 != z^3 " /></center>
+<br>
+
 ##### **Fermats Theorem** 
 - Is said to be actually called Fermats Last Theorem where that the sides of a right angled triagle is 3^2 + 4^2 = 5^2 and always will be but if you change it to 3^3 + 4^3 != 5^3 and according to Fermat that if you change n from 2 it will never be the right answer that you get. And after 350 years [Andrew Wiles](https://en.wikipedia.org/wiki/Wiles%27s_proof_of_Fermat%27s_Last_Theorem) came up with a solution for why these equations couldnt be solved. Also with Fermats Theorem an odd^n + even^n = odd^2 and cannot be equal to an even number IE: odd^n + even^n != even^2 
 ##### **Wiles's proof of Fermat's Last Theorem**
@@ -44,3 +60,5 @@ $$ x^n + y^n = z^n $$
 2. A video giving a quick explaination of [Fermats](https://www.youtube.com/watch?v=1BSFyEIY2BY)
 3. GeeksOfGeeks Decidable & Undecidable Problems [here](https://www.geeksforgeeks.org/decidable-and-undecidable-problems-in-theory-of-computation/)
 4. Repo used for idea on how to do the [Countdown game solver](https://github.com/Vonatzki/countdown_game_number_solver/blob/master/Countdown%20Game%20Show%20Number%20Solver.ipynb) 
+5. Explination of how the PCP works [here](https://www.youtube.com/watch?v=VZNN1OGoqr8)
+6. [Link](https://latex.codecogs.com/) to write the equations. 
