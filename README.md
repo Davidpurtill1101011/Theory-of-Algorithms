@@ -3,7 +3,8 @@
 1. Clone the repo:<br>
 ```git clone https://github.com/Davidpurtill1101011/Theory-of-Algorithms ```
 2. Install [Anaconda3](https://www.anaconda.com/products/distribution) to your local machine
-3. Install [Jupyter](pip install jupyterlab)
+3. Install Jupyter: <br>
+    ```pip install jupyterlab```
 4. In the project folder via the command line use this command:<br>
    ``` cd Assignment ```
 5. To run the notebooks use: <br> 
