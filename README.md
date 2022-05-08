@@ -63,3 +63,4 @@ There is a way of actually understanding the Undecidable Problems intuitively fr
 4. Repo used for idea on how to do the [Countdown game solver](https://github.com/Vonatzki/countdown_game_number_solver/blob/master/Countdown%20Game%20Show%20Number%20Solver.ipynb) 
 5. Explination of how the PCP works [here](https://www.youtube.com/watch?v=VZNN1OGoqr8)
 6. [Link](https://latex.codecogs.com/) to write the equations. 
+7. [RPN](https://en.wikipedia.org/wiki/Reverse_Polish_notation)
