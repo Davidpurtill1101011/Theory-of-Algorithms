@@ -46,14 +46,14 @@ There is a way of actually understanding the Undecidable Problems intuitively fr
 - With the Undecidable Problem and the PCP they have alot in common. Where both need to both be compared to something and will only be equal to one right answer and there cannot be any other answer as stated in the Undecidable Problem you can have 3^2 + 4^2 = 5^2 but once to change the number from being squared to cubed or to a higher number then it will never be equal IE: 3^3 + 4^3 != 5^3.
 
 #### How and Why
-- If 3^2 + 4^2 = 25 and 5^2 = 25 which makes 3^2 + 4^2 = 5^2 correct. And if you have 3^3 + 4^3 = 81 and 5^3 = 125 then also makes 3^3 + 4^3 != 5^3 correct in saying that they can never be equal. And this is works for PCP if you have a3,a2,a3,a1 = bba + ab + bba + a = bbaabbbaa = bb + aa + bb + baa = b3,b2,b3,b1 they are both the same but and will always be correct but then if you change one character such as a3,a2,a3,a1 = bba + ab + bca + a = bbaabbbaa = bb + aa + bb + baa = b3,b2,b3,b1 they are not the same and will always be False or never the same as each other.
+- If 3^2 + 4^2 = 25 and 5^2 = 25 which makes 3^2 + 4^2 = 5^2 correct. And if you have 3^3 + 4^3 = 81 and 5^3 = 125 then also makes 3^3 + 4^3 != 5^3 correct in saying that they can never be equal. And this is how it works for PCP if you have a3,a2,a3,a1 = bba + ab + bba + a = bbaabbbaa = bb + aa + bb + baa = b3,b2,b3,b1 they are both the same but and will always be correct but then if you change one character such as a3,a2,a3,a1 = bba + ab + bca + a = bbaabbbca != bb + aa + bb + baa = b3,b2,b3,b1 they are not the same and will always be False or never the same as each other.
 
 #### Homer's Near miss 
 - In an episode of The Simpsons Homer wants to become an inventor and there is a scene where is at a blackboard doing an equation that has 3987^12 + 4365^12 = 4472^12 this is what is called a near miss and it somehow almost works out but if you were to do it on a phone calculator it will show up as being correct but if you do it on a scientific calculator it will show up to 12-15 decimal places and actually show that it is wrong.
 <br>
 <img src="./Images/homersTheorem.webp" width="600" title="Homers Theorem">
 
-- Here is a video explaining more of how they added it in and why [Homers Theorem](https://youtu.be/ReOQ300AcSU).
+- Here is a video explaining more of how and why they added it in and why [Homers Theorem](https://youtu.be/ReOQ300AcSU).
 
 ***
 ## Refrences
